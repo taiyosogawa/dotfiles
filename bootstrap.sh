@@ -1,3 +1,6 @@
+# make sure the execute bit is on for this file:
+# sudo chmod 555 bootstrap.sh
+
 echo "alias up='cd ..'" >> ~/.bashrc
 echo "alias up2='cd ../..'" >> ~/.bashrc
 echo "alias up3='cd ../../..'" >> ~/.bashrc
